@@ -20,6 +20,7 @@ String.punctuation - Contiene la cadena de caracteres ASCII que se consideran ca
 Ej: (!"#$%&'()*+,-./:;<=>?@[]^_`{|}~)
 
 
+
 * Secrets
 
 Este módulo secrets es utilizado para generar números aleatorios de manera criptográfica sadecuados para administrar datos como contraseñas, autenticación de cuentas y tokens de seguridad.

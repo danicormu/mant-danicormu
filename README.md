@@ -2,6 +2,7 @@
 
 En este proyecto se va desarrollar una función en Python que genera contraseñas entre 4 y 16 caracteres que contengan letras mayúsculas, minúsculas, numeros y caracteres especiales.
 
+
 # Modulos Utilizados de Python
 
 * String
@@ -16,6 +17,7 @@ Ej: 0123456789
 
 String.punctuation - Contiene la cadena de caracteres ASCII que se consideran caracteres de puntuación.
 Ej: (!"#$%&'()*+,-./:;<=>?@[]^_`{|}~)
+
 
 * Random
 

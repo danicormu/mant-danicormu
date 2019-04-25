@@ -10,7 +10,6 @@ def generatePassword():
     password = "".join(random.choice(characters) for i in range(random.randint(4,16)))
     #print the password generated
     print ("The password generated is: ", password)
-
 generatePassword()
     
 
